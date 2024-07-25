@@ -2,9 +2,8 @@
 # Themes-For-Discord
 Theme For Discord By Wentz
 --------------------------------------------------------------------------------------------------------------------------------------------
-PARA USAR, BAIXE O BETTER DISCORD, APÓS, BAIXE SEU TEMA E EXTRAIA-O EM: C ou D:\Users\Seu-Usuario\AppData\Roaming\BetterDiscord\themes.
-DEPOIS VÁ NO SEU DISCORD / CONFIGURAÇÕES DE USUARIO / VÁ EM TEMAS / ATIVE O TEMA COLOCADO.
+PARA USAR, PRIMEIRAMENTE INSTALE O BETTER DISCORD, BAIXE SEUS TEMAS E EXTRAIA-OS EM: C ou D:\Users\Seu-Usuario\AppData\Roaming\BetterDiscord\themes.
+DEPOIS VÁ ATÉ SEU DISCORD / CONFIGURAÇÕES DE USUARIO / VÁ EM TEMAS / ATIVE O TEMA DESEJADO.
 --------------------------------------------------------------------------------------------------------------------------------------------
-OBS :
-TENQ SER O ARQUIVO .css
+OBS :SOMENTE  ARQUIVOS .css
 --------------------------------------------------------------------------------------------------------------------------------------------
